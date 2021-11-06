@@ -99,20 +99,3 @@ select earth_distance(
 
 * [DevCenter](https://devcenter.heroku.com/articles/getting-started-with-gradle-on-heroku)
 
-## Code Quality
-
-### PMD
-
-+ https://pmd.github.io/pmd-6.8.0/index.html
-
-### Checkstyle
-
-+ https://checkstyle.org/
-
-+ https://checkstyle.org/google_style.html
-
-+ http://google.github.io/styleguide/javaguide.html
-
-```shell script
-wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
-```
