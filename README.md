@@ -3,6 +3,13 @@
 
 Construindo uma API Rest de consulta das cidades do Brasil
 
+## Heroku
+* https://peaceful-meadow-72442.herokuapp.com/cities
+* https://peaceful-meadow-72442.herokuapp.com/states
+* https://peaceful-meadow-72442.herokuapp.com/countries
+* https://peaceful-meadow-72442.herokuapp.com/distances/by-cube?from=4929&to=5254
+* https://peaceful-meadow-72442.herokuapp.com/distances/by-points?from=4929&to=5254
+
 ## Requirements
 
 * Linux
